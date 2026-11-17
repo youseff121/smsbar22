@@ -1,0 +1,18 @@
+{
+  "senders": [
+    "9820007777",
+    "9830001923",
+    "98200013333"
+  ],
+  "destinations": [
+    "5000200050"
+  ],
+  "sources": [
+    "https://YOUR_DOMAIN.com/dalahoo/config.json",
+    "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/config.json"
+  ],
+  "app": {
+    "version": "1.0.2+3",
+    "url": "https://YOUR_DOMAIN.com/dalahoo/app-release.apk"
+  }
+}
